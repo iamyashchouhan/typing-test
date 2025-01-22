@@ -1,0 +1,6 @@
+org/ymg/typing/config/MvcConfig.class
+org/ymg/typing/controller/TypingController.class
+org/ymg/typing/service/TypingService.class
+org/ymg/typing/repository/TypingResultRepository.class
+org/ymg/typing/controller/MainController.class
+org/ymg/typing/model/TypingResult.class
