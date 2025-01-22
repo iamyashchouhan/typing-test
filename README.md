@@ -2,6 +2,8 @@
 
 A modern, minimalist typing test application built with Spring MVC and vanilla JavaScript. Test and improve your typing speed with real-time WPM (Words Per Minute) and accuracy tracking.
 
+![Typing Speed Test Application](./typing-test.png)
+
 ## Features
 
 - 🕒 Multiple test durations (15s, 30s, 60s, 120s)
